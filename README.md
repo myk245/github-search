@@ -7,3 +7,7 @@ A simple and useful application that allows you to search for and view GitHub pr
 - JavaScript
 - Bootstrap
 - Bootswatch
+
+### Test Me Out!
+
+https://myk245.github.io/github-search/
